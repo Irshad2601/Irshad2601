@@ -12,9 +12,8 @@
 - 🎓 Final-year B.Tech student majoring in Mechanical Engineering  
 - 📈 Exploring opportunities in data analytics and business intelligence  
 - 📊 Skilled in SQL, Python, Excel, Power BI, and data visualization  
-- 📬 Email: **irshadbijinemula07@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1TUmzvFpgah47BPjbKZ8hYJ5gg2qm02a0/view?usp=sharing)  
-- 🔗 [Portfolio Repository](https://github.com/Irshad2601/PortfolioProjects)  
+- 📬 Email: **irshadbijinemula07@gmail.com**   
+- 🔗 [Portfolio Repository](https://github.com/Irshad2601/portfolio-project)  
 
 ---
 
@@ -27,7 +26,7 @@ Analyzed ride-sharing platform data to assess driver engagement, retention, and 
 - Delivered actionable insights through volume, rating, and cancellation analysis  
 
 🛠 **Tech Used:** SQL (T-SQL), Window Functions, KPIs  
-🔗 [GitHub Repository](https://github.com/Irshad2601/PortfolioProjects/tree/main/rideit)
+🔗 [GitHub Repository](https://github.com/Irshad2601/portfolio-project/tree/main/rideit)
 
 ---
 
@@ -38,7 +37,7 @@ Explored customer churn behavior for a bank using Python. Delivered insights on 
 - Suggested business-focused recommendations based on patterns and trends  
 
 🛠 **Tech Used:** Python, Pandas, Seaborn, Matplotlib  
-🔗 [GitHub Repository](https://github.com/Irshad2601/PortfolioProjects/tree/main/credit%20card%20customer%20churn)
+🔗 [GitHub Repository](https://github.com/Irshad2601/portfolio-project/tree/main/credit%20card%20customer%20churn)
 
 ---
 
