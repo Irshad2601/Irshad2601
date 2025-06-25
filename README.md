@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Irshad Bijinemula</h1>
-<h3 align="center">Aspiring Data Analyst | SQL & Python Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | SQL & Power BI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0D6EFD&center=true&vCenter=true&lines=Turning+Data+into+Insights;SQL+%7C+Python+%7C+Power+BI;Always+Learning%2C+Always+Improving;Ready+to+Collaborate+%26+Grow" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0D6EFD&center=true&vCenter=true&lines=Turning+Data+into+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Azure;Always+Learning%2C+Always+Improving;Ready+to+Collaborate+%26+Grow" />
 </p>
 
 ---
