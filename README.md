@@ -56,7 +56,8 @@ Explored customer churn behavior for a bank using Python. Delivered insights on 
 ---
 
 ## 🏅 Certifications  
-
+### One Roadmap : Data Analyst Certificate 
+<img src="assets/Data Analyst-Certificate.jpg" alt="Data Analyst Certificate" width="600" />
 - 🏆 One Roadmap: Data Analyst 
 - 🎓 NPTEL: Intellectual Property Rights & Competition Law  
 - 🎓 NPTEL: Operations Management  
