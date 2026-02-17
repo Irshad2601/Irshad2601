@@ -9,7 +9,7 @@
 
 ## 📌 About Me  
 
-- 🎓 Final-year B.Tech student majoring in Mechanical Engineering  
+- 🎓 Graduted B.Tech student majoring in Mechanical Engineering  
 - 📈 Exploring opportunities in data analytics and business intelligence  
 - 📊 Skilled in SQL, Python, Excel, Power BI, and data visualization  
 - 📬 Email: **irshadbijinemula07@gmail.com**   
